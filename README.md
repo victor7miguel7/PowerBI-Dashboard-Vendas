@@ -7,3 +7,7 @@ Este projeto consiste em um dashboard interativo desenvolvido a partir de arquiv
 * Faturamento Total: Tenha uma visão geral do faturamento total.
 * Produto Mais Vendido: Identifique o produto mais popular.
 * Quantidade Vendida por Continente: Analise a distribuição geográfica das vendas.
+
+![pb1](https://github.com/user-attachments/assets/4a79e208-03fb-4c22-b09e-78a70483912d)
+
+#powerbi
